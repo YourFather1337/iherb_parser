@@ -2,6 +2,7 @@ Parsing the iHerb website and saving the data in JSON and XML.
 Specific product catalogs (20,000 or more) are parsed.
 
 Iherb categories for parsing:
+
 Dietary Supplements URL
 Vitamins (4301) https://ru.iherb.com/c/supplements?cids=101072
 
